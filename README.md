@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://www.instagram.com/tae9wan/" target="_blank"><img src="https://img.shields.io/badge/@tae9wan-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/></a>
+<a href="https://www.instagram.com/tae9wan/" target="_blank"><img src="https://img.shields.io/badge/@tae9wan-E4405F?style=flat-square&logo=instagram&logoColor=FFFFFF"/></a>
 <!--
 **KimTaegwan03/KimTaegwan03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
