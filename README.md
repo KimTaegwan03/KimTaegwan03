@@ -1,5 +1,7 @@
 ### Hi there 👋
 <a href="https://www.instagram.com/tae9wan/" target="_blank"><img src="https://img.shields.io/badge/@tae9wan-E4405F?style=flat-square&logo=instagram&logoColor=FFFFFF"/></a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimTaegwan03&show_icons=true&theme=radical)
 <!--
 **KimTaegwan03/KimTaegwan03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
